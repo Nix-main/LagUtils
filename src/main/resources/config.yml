@@ -1,0 +1,5 @@
+global-messages: true
+#true by default
+#effected by /lagutils global
+#toggles alerts for EVERY staff member
+

@@ -33,7 +33,7 @@ public class LagCmd implements CommandExecutor {
                         "&cLagUtils &ais a plugin developed by Nix to inform server owners and staff members of possible lag machines." +
                                 "\n&aIt features one command, with several arguments." +
                                 "\n&6/lagutils help - Shows the arguments for the command" +
-                                "\n&9The plugin is currently in " + desc.getVersion() +
+                                "\n&9The plugin is currently in v" + desc.getVersion() +
                                 "\n&bMore info can be found on the github page: " +
                                 "\n&ccoming soon."));
 
